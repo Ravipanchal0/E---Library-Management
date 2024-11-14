@@ -1,0 +1,18 @@
+{
+  "name": "librarymanagement",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "Ravi Panchal",
+  "license": "ISC",
+  "description": "The is a librarymanagement system webapp where you can borrow books and enhance your knowledge.",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "mongoose": "^8.8.1"
+  }
+}
